@@ -76,9 +76,9 @@
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="84" />
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="60" />
 <img align="right" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" width="93" />
-<img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="60" />
 :  
 <br>
+<img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="60" />
 <img align="right" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="60" />
 <img align="right" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="40" />
 <img align="right" src="https://img.shields.io/badge/-jest/TDD-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="68" />
@@ -90,7 +90,7 @@
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
-**Operating Systems:**
+**Operating Systems :**
 
 </details>
 
