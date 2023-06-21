@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-🌱 I am currently learning next.js! 
+🌱 I am currently learning Next.js! 
 </p>
 
 <br>
@@ -25,9 +25,11 @@
 
 <br>
 
+<!--
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dannyzheng159&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+-->
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
@@ -35,9 +37,10 @@
 
 <br> 
 
+<!--
 <details>
   <summary>📃 Resume</summary>
-
+-->
 
 ## Education
 
@@ -54,6 +57,7 @@
 ## Engineering Products
 - 👨‍💻 **Neighbor**
 - 👨‍💻 **Wunderpark**
+- 👨‍💻 **JobFlow**
 
 
 ## Skills
@@ -86,11 +90,6 @@
 <img align="right" src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="62" />
 <img align="right" src="https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazon-aws&logoColor=61DAFB" width="50" />
 
-<br>
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
-**Operating Systems :**
 
 </details>
 
