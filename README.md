@@ -51,9 +51,13 @@
 
 ## Experience
 
-- 👨‍💻 **Fullstack Engineer**\
-📆 2022 - Current\
-📍 **Orcastration** New York, NY
+- 👨‍💻 **Software Engineer**\
+📆 2021 - Current\
+📍 **Orcastration · Full-time** - New York, NY
+
+- 👨‍💻 **Software Engineer**\
+📆 2023 - Current\
+📍 **Amy's Alteration · Freelance** - New York, NY
 
 ## Engineering Products
 - 👨‍💻 **Neighbor**
