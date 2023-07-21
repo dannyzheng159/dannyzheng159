@@ -43,12 +43,6 @@
   <summary>📃Resume</summary>
 -->
 
-## Education
-
-- 📖 **Electrical Engineering**\
-📆 2015 - 2019\
-📍 **University at Buffalo** - Buffalo, New York
-
 ## Experience
 
 - 👨‍💻 **Software Engineer**\
@@ -59,11 +53,16 @@
 📆 2023 - Current\
 📍 **Amy's Alteration · Freelance** - New York, NY
 
-## Engineering Products
+## Open-Source
 - 👨‍💻 **Neighbor**
 - 👨‍💻 **Wunderpark**
 - 👨‍💻 **JobFlow**
 
+## Education
+
+- 📖 **Electrical Engineering**\
+📆 2015 - 2019\
+📍 **University at Buffalo** - Buffalo, New York
 
 ## Skills
 
