@@ -46,12 +46,12 @@
 ## Experience
 
 - 👨‍💻 **Software Engineer**\
-📆 2021 - Current\
-📍 **Orcastration · Full-time** - New York, NY
-
-- 👨‍💻 **Software Engineer**\
 📆 2023 - Current\
 📍 **Amy's Alteration · Freelance** - New York, NY
+
+- 👨‍💻 **Software Engineer**\
+📆 2022 - 2023\
+📍 **Orcastration · Full-time** - New York, NY
 
 ## Open-Source
 - 👨‍💻 **Neighbor**
