@@ -44,9 +44,12 @@
 -->
 
 ## Experience
+- 👨‍💻 **Software Engineer II**\
+📆 2023 - Current\
+📍 **Costsco Wholesale · Full-time** - Dallas, TX
 
 - 👨‍💻 **Software Engineer**\
-📆 2023 - Current\
+📆 2023 - 2023\
 📍 **Amy's Alteration · Freelance** - New York, NY
 
 - 👨‍💻 **Software Engineer**\
@@ -93,7 +96,7 @@
 <br>
 
 #### 🔭 I’m currently working on: 
-   - Orcastration, A GUI designed to easily visualize Docker Swarm nodes, tasks, containers and their metrics / health status.
+   - Costco Digital BMod (Browse Modernization) team, modernizing the Costco website.
 
 #### 💬 Ask me about:
    - React, Next.js, Node.js, Express, Webpack, Docker, and Docker Swarm
