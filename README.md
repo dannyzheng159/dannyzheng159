@@ -96,7 +96,7 @@
 <br>
 
 #### 🔭 I’m currently working on: 
-   - Costco Digital BMod (Browse Modernization) team, modernizing the Costco website.
+   - Costco Digital BMod (Browse Modernization) team - modernizing and improving the Costco website.
 
 #### 💬 Ask me about:
    - React, Next.js, Node.js, Express, Webpack, Docker, and Docker Swarm
